@@ -1,8 +1,46 @@
-# React + Vite
+# Meme Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Set up the project, the goal here is to make a Meme Generator using React 
 
-Currently, two official plugins are available:
+![Portfolio-design](./img/headline.webp)
+![Portfolio-design](./img/screen2.webp)
+![Portfolio-design](./img/screen3.webp)
+## Built With
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- HTML
+- CSS
+- JavaScript
+- React
+- Vite
+
+### Prerequisites
+- GIT 
+
+### Setup
+- Clone this [Repository](https://github.com/danyhoshi/memeGenerator) in order to get a copy of this project
+- From develop branch, open the index.html file with your browser.
+
+## Author
+
+- GitHub: [@danyhoshi](https://github.com/danyhoshi)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/daniela-gonz%C3%A1lez-ba16a556/)
+- Twitter: [@dany_hoshi](https://twitter.com/Dany_hoshi)
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Scrimba. 
+- Our Studying group.
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
