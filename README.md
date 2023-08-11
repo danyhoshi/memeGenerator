@@ -1,10 +1,13 @@
 # Meme Generator
 
-Set up the project, the goal here is to make a Meme Generator using React 
+Set up the project, the goal here is to make a Meme Generator using React. Design from [Figma](https://www.figma.com/file/MoLwFPHNHJVrzdFurxHzNV/Meme-Generator?type=design&node-id=2-2&mode=design&t=li4M8nPx9DhTrj2O-0)
 
-![Portfolio-design](./img/headline.webp)
-![Portfolio-design](./img/screen2.webp)
-![Portfolio-design](./img/screen3.webp)
+## Design
+![Meme Generator-design](./public/design.webp)
+
+## Meme Generator
+![MyMemeGenerator](./public/MemeGenerator.webp)
+
 ## Built With
 
 - HTML
